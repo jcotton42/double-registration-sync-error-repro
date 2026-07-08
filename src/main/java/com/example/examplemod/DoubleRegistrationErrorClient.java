@@ -29,7 +29,7 @@ public class DoubleRegistrationErrorClient {
     }
 
     @SubscribeEvent
-    public static void onClientSetup(ClientTickEvent.Post event) {
+    public static void onClientTick(ClientTickEvent.Post event) {
         if (CRASH_MAPPING.get().consumeClick()) {
             for (Item item : BuiltInRegistries.ITEM) {
                 DoubleRegistrationError.LOGGER.info("This should crash {}", item.toString());

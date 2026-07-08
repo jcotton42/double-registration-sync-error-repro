@@ -1,13 +1,3 @@
 {
-  "itemGroup.doubleregistrationerror": "Example Mod Tab",
-  "block.doubleregistrationerror.example_block": "Example Block",
-  "item.doubleregistrationerror.example_item": "Example Item",
-
-  "doubleregistrationerror.configuration.title": "Double Registration Error Configs",
-  "doubleregistrationerror.configuration.section.doubleregistrationerror.common.toml": "Double Registration Error Configs",
-  "doubleregistrationerror.configuration.section.doubleregistrationerror.common.toml.title": "Double Registration Error Configs",
-  "doubleregistrationerror.configuration.items": "Item List",
-  "doubleregistrationerror.configuration.logDirtBlock": "Log Dirt Block",
-  "doubleregistrationerror.configuration.magicNumberIntroduction": "Magic Number Text",
-  "doubleregistrationerror.configuration.magicNumber": "Magic Number"
+  "item.doubleregistrationerror.example_item": "Example Item"
 }
